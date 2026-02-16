@@ -1,1 +1,1 @@
-loadstring(require(script.Parent.Parent["core.art"]))
+print(script.Parent)
